@@ -1,0 +1,4 @@
+devre üzerine iki adet reed switch baðlanacak.
+ikisinden de sinyal alýndýðýnda 1 çevrima artacak.
+arýza durumunda istasyon arduinosuna logic sinyal gönderecek.
+istasyon arduino ona göre devam edecek. TR VE RX UÇLARINDAN BU SÝNYAL GÖNDERÝLEBÝLÝR.

@@ -1,0 +1,3 @@
+- ethernet shield i masterswitchi sisteme baglama
+- arayüz programinin html olarak kaydetmesini sagla
+- 

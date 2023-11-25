@@ -1,0 +1,7 @@
+ilk önce libraryi ekle 
+
+rfid-master.zip
+
+sonra examples dan örnekleri açýp deðiþiklik yapýp upload yap
+
+ben yaptým "ReadUidMultiReader" klasöründe var

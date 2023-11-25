@@ -1,0 +1,5 @@
+haberlestirme data/gönderme isini çözdüm
+
+c# da yazilim yazip haberlestirmeyi dene
+
+winsoket olusturup ayni anda hepsine baglanmayi dene

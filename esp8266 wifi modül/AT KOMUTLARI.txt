@@ -1,0 +1,10 @@
+AT					OK döner modülün hazýr olduðunu gösterir
+AT+CWMODE=3				hem client hem de acces point moduna geçer
+AT+CWLAP				baðlanabileceði wifiadreslerini gösterir
+AT+CWJAP="wifiadi","þifre"		wifiya baðlanýr
+AT+CIFSR				aldýðý ip adresini gösterir
+AT+CIPSTART="TCP","192.168.0.17",23	servera baðlanýr client olarak
+AT+CIPSEND=5				5 karakterlik data göndermek için > karakteri geri döndürür sonra data girilip entera basýlýr
+
+
+AT+CIPSERVER=1,23			server olarak baþla 23 portu dinle

@@ -1,0 +1,15 @@
+ilk önce baðlantýlarý arduino klasörünü arduino>library nin içine kopyala
+sonra blank programýný arduinoya at
+
+sensörn yeþil kablosunu arduino nun tx ine baðla
+sensörün beyaz kablosunu arduino nun rx ine baðla
+kýrmýzý +5v a siyah gnd ye baðla.
+
+sonra SFGDemoV2.0 programýný portu seçip enroll deyip
+parmak izini kayýt yaptýr. search diyerek test edebilirsin.
+
+arduinodan fingerprint test programýný aç yükle
+serial monitörü aç ordan sensmr kýrmýzý yanmaya baþlýcak
+parmaðýný okut ve ekranda senin programda girdiðin adres çýkarsa okuma doðru
+
+daha sonra programda bazý satýrlarý deðiþtirerek istenilen pinden çýkýþ verilebilir.

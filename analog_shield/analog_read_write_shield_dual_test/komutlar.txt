@@ -1,0 +1,5 @@
+bu programý test etmek için hem servise hemde imdata 
+serial monitorden aþaðýdaki komutlarý gönderebilirsiniz
+
+100 s		:servis oransal valfini 100 deðerine ayarlar (0-255 arasýnda olmalýdýr)
+100 i		:imdat oransal valfini 100 deðerine ayarlar (0-255 arasýnda olmalýdýr)

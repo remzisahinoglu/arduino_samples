@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\ModbusPollCS\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe
+C:\Users\acer\Desktop\ModbusPollCS\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.pdb
+C:\Users\acer\Desktop\ModbusPollCS\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\ModbusPollCS\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Form1.resources
+C:\Users\acer\Desktop\ModbusPollCS\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+C:\Users\acer\Desktop\ModbusPollCS\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\ModbusPollCS\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\ModbusPollCS\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+C:\Users\acer\Desktop\ModbusPollCS\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
